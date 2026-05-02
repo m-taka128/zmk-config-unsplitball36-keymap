@@ -134,9 +134,9 @@
 		COMBO(double_mb1, 35, <16 17 18>, <&mkp_2mb1>);			COMBO(triple_mb1, 35, <26 27 28>, <&mkp_3mb1>);
 		COMBO(single_mb3, 35, <16 18>, <&mkp MB3>);				COMBO(mute, 35, <10 20>, <&kp C_MUTE>);
 
-		COMBO(hrm_lctl, 35, <10 11>, <&kp LCTRL>);				COMBO(hrm_lsht, 35, <11 12>, <&kp LSHFT>);
+		COMBO(hrm_lctl, 35, <32 11>, <&kp LCTRL>);				COMBO(hrm_lsht, 35, <11 12>, <&kp LSHFT>);
 		COMBO(hrm_lalt, 35, <12 13>, <&kp LALT>);				COMBO(hrm_lgui, 35, <12 14>, <&kp LGUI>);
-		COMBO(hrm_lctl_lsht, 35, <10 11 12>, <&kp LC(LSHFT)>);	COMBO(hrm_lsht_lalt, 35, <11 12 13>, <&kp LS(LALT)>);
+		COMBO(hrm_lctl_lsht, 35, <32 11 12>, <&kp LC(LSHFT)>);	COMBO(hrm_lsht_lalt, 35, <11 12 13>, <&kp LS(LALT)>);
 		COMBO(hrm_lalt_lgui, 35, <13 14>, <&kp LA(LGUI)>);		COMBO(hrm_lsht_lgui, 35, <11 14>, <&kp LS(LGUI)>);
 		COMBO(hrm_lctl_lgui, 35, <10 14>, <&kp LC(LGUI)>);		COMBO(hrm_lctl_lalt, 35, <10 13>, <&kp LC(LALT)>);
 
