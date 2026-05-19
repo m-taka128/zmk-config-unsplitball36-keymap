@@ -140,7 +140,7 @@
 		COMBO(hrm_lalt_lgui, 35, <13 14>, <&kp LA(LGUI)>);		COMBO(hrm_lsht_lgui, 35, <11 14>, <&kp LS(LGUI)>);
 		COMBO(hrm_lctl_lgui, 35, <10 14>, <&kp LC(LGUI)>);		COMBO(hrm_lctl_lalt, 35, <10 13>, <&kp LC(LALT)>);
 
-		COMBO(bt_clr, 35, <3 4>, <&bt BT_CLR>);					COMBO(out_tog, 35, <0 1>, <&out OUT_TOG>);
+		COMBO(bt_clr, 35, <9 19 29>, <&bt BT_CLR>);					COMBO(out_tog, 35, <0 1>, <&out OUT_TOG>);
 		COMBO(bootloader, 35, <0 10 20>, <&bootloader>);		COMBO(hrm_lmeh, 35, <10 11 12 13>, <&kp LC(LS(LALT))>);
 
 		COMBO(home, 35, <13 16>, <&home>);
